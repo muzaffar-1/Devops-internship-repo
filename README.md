@@ -17,8 +17,8 @@ A brief explanation of what this project aims to achieve.
 3. "Configured a GitHub Actions workflow to automatically build a Docker image and push it to DockerHub upon every commit.
 
 ### Results
-A brief description of the final result. You can use screenshots here!
-"The pipeline successfully builds and pushes the Docker image. The application is live and accessible at this IP address: (EC2 Public IP Address.)
+A brief description of the final result.
+"The pipeline successfully builds and pushes the Docker image. The application is live and accessible at this IP address: (18.233.170.59)
 
 
 <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/16201731-002d-4e8f-8413-88d10bb7d8c8" />
